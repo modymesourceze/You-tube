@@ -9,6 +9,7 @@ from asyncio import sleep, create_task
 from threading import Thread
 import os
 from telebot.types import *
+import telebot
 
 tkn = Mody.TG_BOT_TOKEN
 
