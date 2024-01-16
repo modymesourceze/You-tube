@@ -6,3 +6,4 @@ requests
 datetime
 yt_dlp
 youtube_search
+pytube
