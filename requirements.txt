@@ -1,0 +1,8 @@
+pyTelegramBotAPI==4.12.0
+telebot
+requests
+pySmartDL
+requests
+datetime
+yt_dlp
+youtube_search
