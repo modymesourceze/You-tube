@@ -10,7 +10,7 @@ from threading import Thread
 import os
 from telebot.types import *
 
-tkn = Mody.ELHYBA
+tkn = Mody.TG_BOT_TOKEN
 
 bot = telebot.TeleBot(tkn)
 
